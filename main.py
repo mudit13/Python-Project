@@ -4,7 +4,7 @@ from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
 from sqlalchemy import Integer, String, Float
 
 '''
-Red underlines? Install the required packages first: 
+Read underlines? Install the required packages first: 
 Open the Terminal in PyCharm (bottom left). 
 
 On Windows type:
